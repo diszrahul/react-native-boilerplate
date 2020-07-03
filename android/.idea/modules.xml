@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Example.iml" filepath="$PROJECT_DIR$/.idea/modules/Example.iml" group="Example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Example/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1487257425/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1487257425/react-native-community_async-storage.iml" group="Example/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1984741006/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1984741006/react-native-community_masked-view.iml" group="Example/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2144195464/react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/2144195464/react-native-device-info.iml" group="Example/react-native-device-info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1598171657/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1598171657/react-native-gesture-handler.iml" group="Example/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1410372211/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1410372211/react-native-reanimated.iml" group="Example/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1103961038/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1103961038/react-native-safe-area-context.iml" group="Example/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1493009718/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1493009718/react-native-screens.iml" group="Example/react-native-screens" />
+    </modules>
+  </component>
+</project>
